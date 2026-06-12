@@ -3,6 +3,6 @@
 
 **[note]()** ノート
 
-**[funai_report]()** 船井財団報告書元ファイル
+**[funai_report](https://github.com/YutoMSD/log/tree/main/funai_report)** 船井財団報告書元ファイル
 
-**[comment]()** 世の中へのコメント
+**[log](https://github.com/YutoMSD/log/blob/main/comment/comment.md)** 記録
