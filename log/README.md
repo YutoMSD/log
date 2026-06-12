@@ -1,6 +1,8 @@
 # log
 記録
 
+**2026/06/12** Peierls位相はタイトバインディング版のAB位相と思った。[トポロジカル物質の分類のわかりやすい解説記事](https://www.jstage.jst.go.jp/article/jsssj/32/4/32_4_209/_article/-char/ja/)。
+
 **2026/06/11** 何もわからん。
 
 **2026/06/10** 阪大の彼と岐阜の彼はさみしいらしいので近くに寄ったときは会いに行ってあげてください。[超伝導量子回路](https://www.jstage.jst.go.jp/article/butsuri/75/10/75_610/_article/-char/ja/)のよさげなpdf。分数電荷によるエキシトン[1](https://www.nature.com/articles/s41586-024-08274-3?fromPaywallRec=false)と[2](https://www.nature.com/articles/s41567-026-03325-0)。Big wave
