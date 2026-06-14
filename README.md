@@ -3,6 +3,6 @@
 
 **[note](https://github.com/YutoMSD/log/tree/main/note)** ノート
 
-**[funai_report](https://github.com/YutoMSD/log/tree/main/funai_report)** 船井財団報告書元ファイル
+**[study_abroad](https://github.com/YutoMSD/log/blob/main/study_abroad)** 大学院留学関係
 
 **[log](https://github.com/YutoMSD/log/blob/main/log)** 記録

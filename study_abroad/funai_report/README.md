@@ -1,0 +1,1 @@
+[留学に至るまでの経緯](https://github.com/YutoMSD/log/blob/main/study_abroad/funai_report/%E7%95%99%E5%AD%A6%E6%B1%BA%E5%AE%9A%E3%81%AB%E8%87%B3%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E7%B5%8C%E7%B7%AF_2026%E5%B9%B46%E6%9C%8812%E6%97%A5.pdf)
