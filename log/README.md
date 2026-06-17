@@ -1,6 +1,8 @@
 # log
 記録
 
+**2026/06/17** [Quanntum geometry in condensed matter](https://academic.oup.com/nsr/article/12/3/nwae334/7762198)より、quantum geometric tensorの実部がquantum metricで、虚部がberry connection。いろいろと計算すると、非線形Hall効果にそれぞれが寄与して、対称性から分離ができる。実部の方は超伝導でも大事らしい、よくわからんけど。boson演算子をholstein primakoffするとスピン演算子がつくれる。bosonの模型とスピンの模型は等価、らしい。
+
 **2026/06/16** Quantum metric
 
 **2026/06/15** 体調不良。[大学院留学説明会@慶應のサイト](https://gakuiryugaku.net/seminar/6240)を作成。Fermi液体とかGreen関数をちゃんと勉強したい。

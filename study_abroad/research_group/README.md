@@ -1,0 +1,1 @@
+物性物理の研究室はPhysics、Applied Physics、EECS、Materials Science、たまにChemistry、Mechanical Engineeringに所属している場合がある。

@@ -11,7 +11,7 @@
 | JASSO | 2 | 激重 | 10/9 | 2/2 | 面接落ち (3/6) |
 | 平和中島財団 | 1 | 軽 | 10/30 | --- | 船井に受かったため直前で出さなかった |
 
-他にも、フルブライトやKDDIがある。
+他にも、フルブライトやKDDIがある。[XPLANEのサイト](https://xplane.jp/fellowships-list/)や[慶應の国際センター](https://www.ic.keio.ac.jp/keio_student/scholarship/degree.html)にもいっぱいのってる。
 
 備考
 
