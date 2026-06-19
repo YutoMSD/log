@@ -9,3 +9,6 @@
 **[scholarship](https://github.com/YutoMSD/log/blob/main/study_abroad/scholarship)** 大学院留学に使える奨学金のリストとコメント
 
 **[SoP](https://github.com/YutoMSD/log/blob/main/study_abroad/SoP)** SoPについて
+
+出願のスケジュールは以下の図
+![alt text](スケジュール.jpg)
