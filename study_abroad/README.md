@@ -10,5 +10,7 @@
 
 **[SoP](https://github.com/YutoMSD/log/blob/main/study_abroad/SoP)** SoPについて
 
+**[XPLANEに寄稿した文章](https://xplane.jp/enroll2026-1-masuda/)** 船井の報告書に比べたら短い。 
+
 出願のスケジュールは以下の図
 ![alt text](スケジュール.jpg)

@@ -1,6 +1,8 @@
 # log
 記録
 
+**2026/06/28** Landauの超流動安定条件。いい感じの[pdf](https://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/wp/wp-content/uploads/2021-091201.pdf)。スライドの作製。[あまり手ごたえの良くない文章](https://xplane.jp/enroll2026-1-masuda/)が公開されてしまった。
+
 **2026/06/27** マイクロ波による超流動stiffnessの測定
 
 **2026/06/26** Photonicsのノリが何となくわかった。また、グラフェンの超伝導は不思議。サッカー見た。
