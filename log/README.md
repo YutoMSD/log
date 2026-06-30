@@ -1,6 +1,10 @@
 # log
 記録
 
+**2026/06/30** 手続きを確認。予防接種が足りないことに気づいた。やばい。
+
+**2026/06/29** 送別会、二次会、ワールドカップ。
+
 **2026/06/28** Landauの超流動安定条件。いい感じの[pdf](https://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/wp/wp-content/uploads/2021-091201.pdf)。スライドの作製。[あまり手ごたえの良くない文章](https://xplane.jp/enroll2026-1-masuda/)が公開されてしまった。
 
 **2026/06/27** マイクロ波による超流動stiffnessの測定
