@@ -2,6 +2,8 @@
 
 アメリカの博士課程は年収が大体1000万円くらいです。
 
+**[2026夏海外大学院留学説明会スライド](https://github.com/YutoMSD/log/blob/main/study_abroad/2026summer_masuda_slide.pdf)** 増田が発表に使用したスライド
+
 **[funai_report](https://github.com/YutoMSD/log/blob/main/study_abroad/funai_report/README.md)** 船井財団報告書元ファイル
 
 **[research_group](https://github.com/YutoMSD/log/blob/main/study_abroad/research_group/README.md)** 研究室や大学の選び方について。特に物性物理。
