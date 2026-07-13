@@ -14,5 +14,7 @@
 
 **[XPLANEに寄稿した文章](https://xplane.jp/enroll2026-1-masuda/)** 船井の報告書に比べたら短い。 
 
+**[after_admission](https://github.com/YutoMSD/log/blob/main/study_abroad/after_admission/README.md)** 合否が出た後に取り組むこと
+
 出願のスケジュールは以下の図
 ![alt text](スケジュール.jpg)
