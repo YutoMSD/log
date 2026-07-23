@@ -16,5 +16,7 @@
 
 **[after_admission](https://github.com/YutoMSD/log/blob/main/study_abroad/after_admission/README.md)** 合否が出た後に取り組むこと
 
+**[baggage](https://github.com/YutoMSD/log/blob/main/study_abroad/baggage/README.md)** 持ち物リスト
+
 出願のスケジュールは以下の図
 ![alt text](スケジュール.jpg)
