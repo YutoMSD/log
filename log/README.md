@@ -1,6 +1,10 @@
 # log
 記録
 
+**2026/08/01** 寝すぎ。実験した。理論復習した。計算したい。
+
+**2026/07/31** PI[夫](https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html)[妻](https://meche.mit.edu/people/faculty/haoning@mit.edu)がとてもいい人。
+
 **2026/07/30** あまりよくないのだろうけど、一人で黙々と考えていた。おかげで光明が見えた気がする。話してみる。
 
 **2026/07/29** Long journeyになりそうだと思った。
