@@ -1,6 +1,12 @@
 # log
 記録
 
+**2026/08/02** 先は長い。日没の遅さにサマータイムを感じる。お金のやり取り。こういうのが一番難しい。
+
+<div align="center">
+<img src="PXL_20260803_030734221.jpg" alt="alt text" width="250">
+</div>
+
 **2026/08/01** 寝すぎ。実験した。理論復習した。計算したい。
 
 **2026/07/31** PI[夫](https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html)[妻](https://meche.mit.edu/people/faculty/haoning@mit.edu)がとてもいい人。
