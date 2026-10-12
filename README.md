@@ -1,6 +1,6 @@
 # Log
 
-**[log](https://github.com/YutoMSD/log/blob/dbb9f306b60164a0a1cc1180715749efa8bc6db9/log/README.md)**
+**[log](log)**
 
 **[note](https://github.com/YutoMSD/log/tree/main/note)** ノート
 
